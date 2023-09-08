@@ -14,7 +14,7 @@ function App() {
         <div>
           <Routes>
             <Route exact path="/" element={<AnimeCard />} />
-            <Route path="/Details" element={<Details />} />
+            <Route path="/Details/:id" element={<Details />} />
           </Routes>
         </div>
       </div>
