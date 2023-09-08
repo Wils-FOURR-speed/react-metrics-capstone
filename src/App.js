@@ -8,7 +8,7 @@ import Details from './Components/AnimeDetails';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/react-metrics-capstone">
       <div className="App">
         <Navbar />
         <div>

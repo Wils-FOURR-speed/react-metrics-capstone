@@ -36,7 +36,7 @@
 
 This React capstone project is about building a mobile web application to check a list of metrics (numeric values) that I created making use of React and Redux.
 
-![Preview Image](Images/preview.png)
+![Preview Image](Images/Preview.PNG)
 
 
 
@@ -69,7 +69,7 @@ This React capstone project is about building a mobile web application to check 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo](Coming soon)
-- [Live Demo](https://wils-fourr-speed.github.io/Capstone-1/)
+- [Live Demo](https://wils-fourr-speed.github.io/react-metrics-capstone/)
 
 <p align="right">(<a href="#">back to top</a>)</p>
 
