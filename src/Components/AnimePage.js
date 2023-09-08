@@ -49,7 +49,8 @@ const AnimeCard = () => {
           placeholder="Search anime by name"
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
-          className="p-1 border-2 border-white ease-in rounded-md text-sky-700"
+          style={{ width: '300px' }}
+          className="w-100 p-1 border-2 border-white ease-in rounded-md text-sky-700"
         />
       </div>
       <p className="text-white bg-sky-800 p-1 font-lato">Anime by Category</p>
