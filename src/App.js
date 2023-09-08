@@ -8,7 +8,7 @@ import Details from './Components/AnimeDetails';
 
 function App() {
   return (
-    <Router basename="/react-metrics-anime">
+    <Router>
       <div className="App">
         <Navbar />
         <div>
