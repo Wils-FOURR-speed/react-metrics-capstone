@@ -17,7 +17,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+  - [🚀 Live Demo / Video ShowCase](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -70,6 +70,7 @@ This React capstone project is about building a mobile web application to check 
 
 - [Live Demo](Coming soon)
 - [Live Demo](https://wils-fourr-speed.github.io/react-metrics-capstone/)
+- [Video ShowCase](https://www.loom.com/share/9b3a25676737408fa3921a5bec025894?sid=3af69d9b-53f7-481a-bc4a-24330f93d6f9)
 
 <p align="right">(<a href="#">back to top</a>)</p>
 
